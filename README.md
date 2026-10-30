@@ -86,12 +86,6 @@ The evaluation section includes relevance judgments for a limited set of queries
 
 Academic / Technical Project — Information Retrieval and Natural Language Processing (NLP).
 
-## Academic Context
-
-This project was developed collaboratively as part of an Information Retrieval course at Umm Al-Qura University.
-
-The dataset and learning materials were provided by the course instructor.
-
 ## Contributors
 
 - Saja Alfahmi
